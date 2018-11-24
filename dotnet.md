@@ -1,4 +1,5 @@
 # .NET project structure
+## Solution Folder:
 ```
 --
 {solution}.sln
