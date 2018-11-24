@@ -146,5 +146,4 @@ _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
 ```
-
-There's probably more things that go in the ignore file.
+Details: https://jopr.org/blog/detail/struktura-net-prilozheniya
