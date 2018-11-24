@@ -24,7 +24,7 @@ README.md
 |---|---|
 | src  | The Main projects |
 | BLL  | Business Logic Layer |
-| src  | Data Access Layer |
+| DAL  | Data Access Layer |
 | UI  | user interface |
 | tests | Test projects folder |
 | docs | Documentation stuff, markdown files, help files etc. |
