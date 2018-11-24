@@ -1,7 +1,6 @@
 # .NET project structure
 ## Solution Folder:
 ```
---
 {solution}.sln
 .editorconfig
 .gitignore
