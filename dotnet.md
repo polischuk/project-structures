@@ -15,11 +15,17 @@ README.md
   packages/
   samples/
   src/
+    /BLL
+    /DAL
+    /UI
   tests/ 
 ```
 |  Folder | Description  |
 |---|---|
 | src  | The Main projects |
+| BLL  | Business Logic Layer |
+| src  | Data Access Layer |
+| UI  | user interface |
 | tests | Test projects folder |
 | docs | Documentation stuff, markdown files, help files etc. |
 | lib  |  Things that can **NEVER** exist in a nuget package  |
