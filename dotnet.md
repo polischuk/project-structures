@@ -31,7 +31,7 @@ README.md
 | tests | Test projects folder |
 | docs | Documentation stuff, markdown files, help files etc. |
 | lib  |  Things that can **NEVER** exist in a nuget package  |
-| packages |   |
+| packages | Nuget packages folder |
 
 
 
