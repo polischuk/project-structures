@@ -4,9 +4,7 @@
 {solution}.sln
 .gitignore
 .gitattributes
-build.cmd
 LICENSE
-NuGet.Config
 README.md
   artifacts/
   build/
