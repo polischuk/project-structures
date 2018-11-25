@@ -2,7 +2,6 @@
 ## Solution Folder:
 ```
 {solution}.sln
-.editorconfig
 .gitignore
 .gitattributes
 build.cmd
