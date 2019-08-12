@@ -6,17 +6,17 @@
 .gitattributes
 LICENSE
 README.md
-  artifacts/
-  build/
-  docs/
-  lib/
-  packages/
-  samples/
-  src/
-    /BLL
-    /DAL
-    /UI
-  tests/ 
+artifacts/
+build/
+docs/
+lib/
+packages/
+samples/
+src/
+  /BLL
+  /DAL
+  /UI
+tests/ 
 ```
 ## Description
 |  Folder | Description  |
