@@ -143,4 +143,4 @@ _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
 ```
-Details: https://jopr.org/blog/detail/struktura-net-prilozheniya
+Details: https://bool.dev/blog/detail/struktura-net-prilozheniya
